@@ -1,0 +1,17 @@
+
+#back-top {
+    z-index:9999;
+    position:fixed;
+    bottom:20px;
+    right:20px;
+}
+
+.arrow {
+    display:inline-block;
+    position:relative;
+    text-indent:-9999px;
+    width:60px;
+    height:60px;
+    background:url("strelka.png") no-repeat;
+}
+
